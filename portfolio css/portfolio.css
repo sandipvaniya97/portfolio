@@ -427,6 +427,23 @@
      padding-right: 1rem;
      color:var(--yellow);
  }
+
+.social-icons ul li{
+    margin-top: 40px;
+    text-align: center;
+    display: inline-block;
+}
+
+.social-icons ul li a{
+    color: var(--yellow);
+    padding-right:50px;
+    font-size: 30px;
+}
+
+.social-icons ul li a:hover{
+    color: #fff;
+    font-size: 40px;
+}
  
  .top{
      position: fixed;
